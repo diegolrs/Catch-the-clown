@@ -1,2 +1,4 @@
-# Catch-the-clown
-A hello world game made in Game Maker Studio
+<p align="center">
+  <img width="100%" height="100%" src="https://github.com/diegolrs/Catch-the-clown/blob/master/imagem.jpeg">
+  Project Demonstration
+</p>
